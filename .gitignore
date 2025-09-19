@@ -176,6 +176,16 @@ DocProject/Help/*.hhp
 DocProject/Help/Html2
 DocProject/Help/html
 
+
+# Configuration files with API keys
+WebAPI/appsettings.json
+WebAPI/appsettings.Development.json
+WebAPI/appsettings.Production.json
+
+# Build outputs
+WebAPI/bin/
+WebAPI/obj/
+
 # Click-Once directory
 publish/
 
